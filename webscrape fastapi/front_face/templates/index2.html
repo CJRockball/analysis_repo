@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html land="en-us">
+<head>
+    <meta charset="'UTF-8"
+</head>
+
+<body>
+    <br>
+    <h2>Choose a Project</h2>
+    <br>
+    <form method="post">
+        <input type="text" id="project" name="project">
+        <label for="brom">Bedrooms</label>
+        <select name="bedrooms" id="brom">
+          <option value=1>1</option>
+          <option value=2>2</option>
+          <option value=3>3</option>
+        </select>
+        <input type="submit" name="submit" value="Submit">
+    </form>
+
+    <div>
+        <h3>{{ project }} with {{ bedrooms }} bedrooms</h3>
+    </div>
+    <br>
+        <h2>Plot Price</h2>
+            <img src="static/plot1.png" alt="plot1"> <!-- {% include "map.html" %}  -->
+            <br><br>
+            <img src="static/map.png" alt="map">
+    </div>
+
+
+
+</body>
+
+
+
+</html>
+
+
+
+
+
+
