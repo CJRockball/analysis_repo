@@ -1,3 +1,0 @@
-This is a test text with some different points. How to split a text is still an outstanding issues.
-We will try to see how we can improve. Is this the way? No one knows.
-And so the struggle continues. Have a good day.
