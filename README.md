@@ -1,44 +1,88 @@
-# Patrick Carlberg - Data Science Learning Journey (2020-2025)
+# Patrick Carlberg – Data Science Learning Journey (2020–2025)
 
-> **Transforming career uncertainty into systematic professional development**
+> **Transforming a career gap into deep technical expertise, project-based learning, and modern AI pipelines.**
+
+---
 
 ## Executive Summary
 
-Between 2020 and 2025, I transformed a career transition period into intensive professional development, completing **50+ advanced certifications** and building **70+ hands-on projects**. This repository documents my systematic journey from nanotechnology researcher to full-stack data scientist.
+This repository documents my systematic journey from domain expert in nanotechnology to full-stack, production-ready data scientist. Over five years, I completed 70+ hands-on projects, 50+ advanced certifications, and delivered modern machine learning solutions using the latest open-source libraries and cloud platforms.
 
-## Quick Navigation
-- 📊 **[Complete Timeline](TIMELINE.md)** - Chronological project development (70+ projects)
-- 🏆 **[Coursera Certificates](coursera_certificates/)** - Educational foundation (50+ courses)
-- 💼 **[Portfolio Highlights](08_portfolio_showcase/)** - Best projects for employers
-- 🔗 **[GitHub Profile](https://github.com/CJRockball)** - Complete code repository
+- **Foundation Building:** Intensive upskilling in Python, statistics, ML, and cloud
+- **Practical Application:** End-to-end projects from data wrangling to web deployment
+- **Modern Workflows:** Productionization via Docker, FastAPI, LangChain, and more
+- **Learning-in-Public:** Transparent record of raw code, refactoring, and skill development
 
-## Learning Journey Phases
+All raw project code is documented *as is* to reflect genuine skill progression. Folders are organized to highlight learning phases and technology stacks, with honest badges indicating code maturity.
 
-### **Phase 1: Foundation Building (2020-2021)**
-**Intensive certification program** - 8 months, 50+ courses completed
-- Python, Statistics, Machine Learning fundamentals
-- TensorFlow, Google Cloud Platform, Quantitative Finance
-- [View certificates](coursera_certificates/) | [Early projects](01_foundations/)
-
-### **Phase 2: Applied Development (2021-2023)**  
-**Converting knowledge to code** - 24 months of hands-on building
-- Flask/FastAPI web applications and ML model deployment
-- GPU computing, big data processing (28GB+ datasets)
-- [Web deployment projects](03_web_deployment/) | [Advanced computing](04_advanced_computing/)
-
-### **Phase 3: Professional Integration (2023-2025)**
-**Production-ready capabilities** - Modern AI/ML technologies
-- Full-stack applications with FastAPI, Docker, cloud deployment
-- LangChain/RAG systems, Kaggle competitions, financial modeling
-- [Modern ML/AI](07_modern_ml_ai/) | [Quantitative finance](05_quantitative_finance/)
-
-## Technology Progression Timeline
-
-**2021:** Basic Python → Flask deployment → TensorFlow → Bayesian statistics
-**2022:** FastAPI microservices → GPU computing → PyTorch → Big data processing  
-**2023:** Full-stack apps → Web scraping → NLP → Production deployment
-**2024:** Advanced PyTorch → Time series forecasting → Kaggle competitions
-**2025:** LangChain/RAG → Modern AI serving → Feature engineering optimization
+---
 
 ## Repository Structure
 
+```shell
+learning-journey/
+│
+├── README.md                    # Executive summary and navigation
+├── TIMELINE.md                  # Chronological list of 70+ projects
+├── coursera_certificates/       # Folder for certificate PDFs
+│   └── README.md                # Summary of certifications
+│
+├── 01_foundations/              # Phase 1 – Python, Stats, Early ML (2020–2021)
+├── 02_machine_learning/         # Phase 2 – Core ML, XGB, PyTorch, TF (2021–2022)
+├── 03_web_deployment/           # Phase 3 – Flask/FastAPI, APIs, web apps (2021–2023)
+├── 04_advanced_computing/       # GPU/CUDA, Big Data, Optimization (2022–2024)
+├── 05_quantitative_finance/     # Financial ML, RL, time series (2020–2024)
+├── 06_kaggle_competitions/      # Competitive ML & public benchmarks (2021–2025)
+├── 07_modern_ml_ai/             # Modern AI (LLMs, LangChain, RAG, NLP) (2024–2025)
+├── 08_portfolio_showcase/       # Presentable, end-to-end project demos
+```
+
+---
+
+## Phases of Development
+
+**Phase 1: Foundations (2020–2021)**
+- Upgraded Python, statistics, and data visualization skills
+- Completed foundations via Coursera specializations
+
+**Phase 2: Applied ML (2021–2022)**
+- Built and iterated on Kaggle, UCI, and public datasets
+- First production ML deployments
+
+**Phase 3: Deployment + Performance (2021–2024)**
+- Moved projects to web, experimented with containerization
+- GPU, big-data, and scalable ML implementations
+
+**Phase 4: Modern AI (2024–2025)**
+- Integrated LLMs, LangChain, generative AI
+- Competed in advanced Kaggle and NeurIPS challenges
+
+---
+
+## Raw/Unpolished Code & Growth Mindset
+
+Some code in early folders is left intentionally raw or only lightly refactored. This is *deliberate*: it documents practical learning cycles, iterative improvements, and technological catch-up after a career pivot.
+
+See [TIMELINE.md](./TIMELINE.md) for project-by-project progress, with major milestones and evolving code quality tagged along the way.
+
+---
+
+## Quick Links
+
+- [Complete Project Timeline](./TIMELINE.md): All projects, with dates and themes
+- [Group Timeline – by Tech/Library](./Make%20a%20md%20file.md)
+- [Coursera Certificates (Summary)](./coursera_certificates/README.md)
+- [Best Portfolio Projects](./08_portfolio_showcase/)
+- [GitHub Profile](https://github.com/CJRockball)
+
+---
+
+## Value Proposition
+
+- **Self-driven, systematic skill acquisition from first principles to production**
+- **End-to-end project delivery, with honesty about unfinished/raw work**
+- **Strong documentation practices, even for learning-phase code**
+
+---
+
+**Contact:** [Your email] • [LinkedIn] • [https://github.com/CJRockball](https://github.com/CJRockball)
